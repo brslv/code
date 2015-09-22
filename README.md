@@ -1,2 +1,2 @@
 # code
-random code i've written
+random code i've written to develop better skills.
