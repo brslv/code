@@ -6,7 +6,6 @@
 // the largest formed number is 95021.
 
 $list = [50, 2, 1, 9];
-$maxNumber = 0;
 
 usort($list, function ($a, $b) {
 	return ($a . $b) < ($b . $a);
