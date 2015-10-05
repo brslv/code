@@ -1,0 +1,5 @@
+/home/brslv/Development/CSharp/PrintArrayRecursively/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brslv/Development/CSharp/PrintArrayRecursively/bin/Debug/PrintArrayRecursively.exe.mdb
+/home/brslv/Development/CSharp/PrintArrayRecursively/bin/Debug/PrintArrayRecursively.exe
+/home/brslv/Development/CSharp/PrintArrayRecursively/obj/x86/Debug/PrintArrayRecursively.exe
+/home/brslv/Development/CSharp/PrintArrayRecursively/obj/x86/Debug/PrintArrayRecursively.exe.mdb
