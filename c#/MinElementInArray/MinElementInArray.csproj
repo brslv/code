@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{A547C2EB-39FE-4B89-A8CE-4AAC49B3765F}</ProjectGuid>
+    <ProjectGuid>{85CE167F-BE6F-4CF5-A810-6F651653566B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PrintArrayRecursively</RootNamespace>
-    <AssemblyName>PrintArrayRecursively</AssemblyName>
+    <RootNamespace>MinElementInArray</RootNamespace>
+    <AssemblyName>MinElementInArray</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -33,8 +33,8 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PrintArrayRecursively.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

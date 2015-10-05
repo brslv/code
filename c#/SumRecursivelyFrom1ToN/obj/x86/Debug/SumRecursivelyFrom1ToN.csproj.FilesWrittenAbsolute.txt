@@ -1,0 +1,5 @@
+/home/brslv/Development/CSharp/SumRecursivelyFrom1ToN/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brslv/Development/CSharp/SumRecursivelyFrom1ToN/bin/Debug/SumRecursivelyFrom1ToN.exe.mdb
+/home/brslv/Development/CSharp/SumRecursivelyFrom1ToN/bin/Debug/SumRecursivelyFrom1ToN.exe
+/home/brslv/Development/CSharp/SumRecursivelyFrom1ToN/obj/x86/Debug/SumRecursivelyFrom1ToN.exe
+/home/brslv/Development/CSharp/SumRecursivelyFrom1ToN/obj/x86/Debug/SumRecursivelyFrom1ToN.exe.mdb

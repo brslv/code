@@ -1,0 +1,5 @@
+/home/brslv/Development/CSharp/MinElementInArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brslv/Development/CSharp/MinElementInArray/bin/Debug/MinElementInArray.exe.mdb
+/home/brslv/Development/CSharp/MinElementInArray/bin/Debug/MinElementInArray.exe
+/home/brslv/Development/CSharp/MinElementInArray/obj/x86/Debug/MinElementInArray.exe
+/home/brslv/Development/CSharp/MinElementInArray/obj/x86/Debug/MinElementInArray.exe.mdb

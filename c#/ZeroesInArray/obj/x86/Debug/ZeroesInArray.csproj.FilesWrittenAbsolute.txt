@@ -1,0 +1,5 @@
+/home/brslv/Development/CSharp/ZeroesInArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brslv/Development/CSharp/ZeroesInArray/bin/Debug/ZeroesInArray.exe.mdb
+/home/brslv/Development/CSharp/ZeroesInArray/bin/Debug/ZeroesInArray.exe
+/home/brslv/Development/CSharp/ZeroesInArray/obj/x86/Debug/ZeroesInArray.exe
+/home/brslv/Development/CSharp/ZeroesInArray/obj/x86/Debug/ZeroesInArray.exe.mdb

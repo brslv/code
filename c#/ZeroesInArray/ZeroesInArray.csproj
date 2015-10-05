@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{A547C2EB-39FE-4B89-A8CE-4AAC49B3765F}</ProjectGuid>
+    <ProjectGuid>{4CBD1C8E-AD49-455D-8440-C594EEDAE226}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PrintArrayRecursively</RootNamespace>
-    <AssemblyName>PrintArrayRecursively</AssemblyName>
+    <RootNamespace>ZeroesInArray</RootNamespace>
+    <AssemblyName>ZeroesInArray</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,7 +34,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PrintArrayRecursively.cs" />
+    <Compile Include="ZeroesInArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
