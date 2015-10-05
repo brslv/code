@@ -1,0 +1,5 @@
+/home/brslv/Development/CSharp/SumOfDigits/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/brslv/Development/CSharp/SumOfDigits/bin/Release/SumOfDigits.exe.mdb
+/home/brslv/Development/CSharp/SumOfDigits/bin/Release/SumOfDigits.exe
+/home/brslv/Development/CSharp/SumOfDigits/obj/x86/Release/SumOfDigits.exe
+/home/brslv/Development/CSharp/SumOfDigits/obj/x86/Release/SumOfDigits.exe.mdb

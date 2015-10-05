@@ -11,5 +11,5 @@ usort($list, function ($a, $b) {
 	return ($a . $b) < ($b . $a);
 });
 
-$result = sprintf('The largest number, number made from the list is: %s', implode('', $list));
+$result = sprintf('The largest number, made from the list is: %s', implode('', $list));
 echo $result; // prints 95021
